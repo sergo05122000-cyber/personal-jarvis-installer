@@ -1,0 +1,22 @@
+# Внутренние планы — не публикуем
+.planning/
+
+# Секреты — никогда
+secrets/
+*.token
+*.key
+.env
+.env.*
+
+# OS / редактор
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Бэкапы
+*.bak
+*.backup
+*~
